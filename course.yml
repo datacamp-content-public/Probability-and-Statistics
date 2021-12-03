@@ -1,6 +1,4 @@
 title: 'Foundations of Data Science: Week 1'
-description: >-
-  An introductory course on Data Science using Python the UC Berkeley
-  datascience library.
+description: ''
 programming_language: python
 from: 'python-base-prod:v1.0.2'
